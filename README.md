@@ -1,12 +1,9 @@
 # 👾✨ George Chukwuma — *L1mitless Creator* 
 
-<p align="center">
-  <img src="/mnt/data/e21ebfda-de38-457e-be40-338bf05cf09d.png" width="420" />
-</p>
+<img width="1536" height="1024" alt="ChatGPT Image Jan 28, 2026 at 09_46_23 AM" src="https://github.com/user-attachments/assets/52c716fa-600f-4fd0-9487-1b32de675624" />
 
-<h2 align="center" style="color:#39FFEE; font-weight:700;">Welcome to my Neon Universe ⚡</h2>
 
-I’m **George Chukwuma** — a software engineer with an appetite for the strange, the beautiful, and the groundbreaking.
+What's up !!!! I'm  **George Chukwuma** — a software engineer with an appetite for the strange, the beautiful, and the groundbreaking.
 
 My world orbits:
 
@@ -42,7 +39,7 @@ engineer:
 
 ---
 
-## ❤️ Crafted With Curiosity
+## 🦅 Crafted With Curiosity
 
 Everything you see here runs on a single fuel: **relentless curiosity**.
 If it lights up my neurons, I build it.
@@ -51,8 +48,7 @@ If it lights up my neurons, I build it.
 
 ## 🌐 Connect
 
-- 💼 LinkedIn — coming soon
-- 📸 IG (fashion x tech) — coming soon
+- 💼 LinkedIn — https://www.linkedin.com/feed/
 - 🌐 Personal site — in the forge
 
 ---
