@@ -1,55 +1,62 @@
-# Hi, I'm <YOUR NAME>! 👋
+# 👾✨ George Chukwuma — *L1mitless Creator* 
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+<p align="center">
+  <img src="/mnt/data/e21ebfda-de38-457e-be40-338bf05cf09d.png" width="420" />
+</p>
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<h2 align="center" style="color:#39FFEE; font-weight:700;">Welcome to my Neon Universe ⚡</h2>
 
-## 🚀 About Me
+I’m **George Chukwuma** — a software engineer with an appetite for the strange, the beautiful, and the groundbreaking.
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
+My world orbits:
 
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
+- 🧠 **Machine Learning & AI** — building thinking systems that push boundaries
+- ⚛️ **Quantum Computing** — exploring computation at the edge of physics
+- 💡 **Entrepreneurship** — crafting ideas into living products
+- 👔 **Fashion & Creative Expression** — technology with style
+- 🔬 **Life Sciences & Art Fusion** — where curiosity becomes creation
 
+---
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## 🚀 Neon‑Powered Projects
 
-## 🌱 Currently Exploring
+```txt
+> Projects illuminated by curiosity, experimentation, and a refusal to stay ordinary.
+```
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+- 🔭 **Limitless Engine** — tools & experiments at the intersection of ML + creativity
+- ⚛️ **Q‑Bits Playground** — quantum algorithms, simulators, and intuition pumps
+- 🤖 **AI Artifacts** — agents, models, and little digital minds
+- 🧬 **Bio‑Inspired Systems** — algorithms shaped by nature itself
 
- ## 🏆 Achievements
+---
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+## 💼 What I Do
 
+```yaml
+engineer:
+  focus: [ai, quantum, fullstack]
+  style: neon-futuristic
+  mindset: "always curious, always building"
+```
 
-## 📬 Get in Touch
+---
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+## ❤️ Crafted With Curiosity
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+Everything you see here runs on a single fuel: **relentless curiosity**.
+If it lights up my neurons, I build it.
 
+---
 
+## 🌐 Connect
 
-<!--
+- 💼 LinkedIn — coming soon
+- 📸 IG (fashion x tech) — coming soon
+- 🌐 Personal site — in the forge
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center" style="color:#39FFEE; font-size: 1.2rem; font-weight:600;">
+  ⚡ Become L1mitless.
+</p>
