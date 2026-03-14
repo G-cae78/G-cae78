@@ -169,7 +169,7 @@ Personal brand website built in **Vue** — home of the L1mitless creative unive
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-050810?style=for-the-badge&logo=linkedin&logoColor=39FFEE)](https://www.linkedin.com/in/YOUR_LINKEDIN)
 [![GitHub](https://img.shields.io/badge/GitHub-050810?style=for-the-badge&logo=github&logoColor=B14FFF)](https://github.com/G-cae78)
-[![L1mitless](https://img.shields.io/badge/L1mitless-becomel1mitless.com-39FFEE?style=for-the-badge&logo=googlechrome&logoColor=39FFEE&labelColor=050810)](https://becomel1mitless.com)
+[![L1mitless](https://img.shields.io/badge/L1mitless-becomel1mitless.com-39FFEE?style=for-the-badge&logo=googlechrome&logoColor=39FFEE&labelColor=050810)]
 
 </div>
 
