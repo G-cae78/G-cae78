@@ -20,13 +20,13 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=G-cae78&hide_border=true&background=050810&ring=39FFEE&fire=FF2D78&currStreakLabel=B14FFF&sideLabels=39FFEE&dates=888888&stroke=39FFEE20)](https://github.com/G-cae78)
+[![GitHub Streak](https://streak-stats.demolab.com?user=G-cae78&hide_border=true&background=0D1117&ring=39FFEE&fire=FF2D78&currStreakLabel=39FFEE&sideLabels=39FFEE&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=39FFEE20)](https://github.com/G-cae78)
 
 <br/>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=G-cae78&show_icons=true&hide_border=true&bg_color=050810&title_color=39FFEE&icon_color=B14FFF&text_color=e0f0ff&rank_icon=github&cache_seconds=1800)](https://github.com/G-cae78)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=G-cae78&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FFEE&icon_color=B14FFF&text_color=FFFFFF&rank_icon=github&cache_seconds=1800)](https://github.com/G-cae78)
 &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-cae78&layout=compact&hide_border=true&bg_color=050810&title_color=39FFEE&text_color=e0f0ff&langs_count=8&cache_seconds=1800)](https://github.com/G-cae78)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-cae78&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FFEE&text_color=FFFFFF&langs_count=8&cache_seconds=1800)](https://github.com/G-cae78)
 
 </div>
 
@@ -125,22 +125,22 @@ Personal brand website built in **Vue** — home of the L1mitless creative unive
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-050810?style=for-the-badge&logo=python&logoColor=39FFEE)
-![TypeScript](https://img.shields.io/badge/TypeScript-050810?style=for-the-badge&logo=typescript&logoColor=39FFEE)
-![JavaScript](https://img.shields.io/badge/JavaScript-050810?style=for-the-badge&logo=javascript&logoColor=FFB800)
-![Java](https://img.shields.io/badge/Java-050810?style=for-the-badge&logo=openjdk&logoColor=FF2D78)
-![C](https://img.shields.io/badge/C-050810?style=for-the-badge&logo=c&logoColor=FF2D78)
-![C++](https://img.shields.io/badge/C++-050810?style=for-the-badge&logo=cplusplus&logoColor=B14FFF)
-![C#](https://img.shields.io/badge/C%23-050810?style=for-the-badge&logo=csharp&logoColor=B14FFF)
-![R](https://img.shields.io/badge/R-050810?style=for-the-badge&logo=r&logoColor=39FFEE)
-![CUDA](https://img.shields.io/badge/CUDA-050810?style=for-the-badge&logo=nvidia&logoColor=76B900)
-![Vue](https://img.shields.io/badge/Vue-050810?style=for-the-badge&logo=vuedotjs&logoColor=39FFEE)
-![React](https://img.shields.io/badge/React-050810?style=for-the-badge&logo=react&logoColor=39FFEE)
-![Unity](https://img.shields.io/badge/Unity-050810?style=for-the-badge&logo=unity&logoColor=ffffff)
-![PyTorch](https://img.shields.io/badge/PyTorch-050810?style=for-the-badge&logo=pytorch&logoColor=FF2D78)
-![AWS](https://img.shields.io/badge/AWS-050810?style=for-the-badge&logo=amazonaws&logoColor=FFB800)
-![Docker](https://img.shields.io/badge/Docker-050810?style=for-the-badge&logo=docker&logoColor=39FFEE)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-050810?style=for-the-badge&logo=cloudflare&logoColor=FFB800)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=39FFEE)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=39FFEE)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FFB800)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=FF2D78)
+![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=FF2D78)
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=B14FFF)
+![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=B14FFF)
+![R](https://img.shields.io/badge/R-0D1117?style=for-the-badge&logo=r&logoColor=39FFEE)
+![CUDA](https://img.shields.io/badge/CUDA-0D1117?style=for-the-badge&logo=nvidia&logoColor=76B900)
+![Vue](https://img.shields.io/badge/Vue-0D1117?style=for-the-badge&logo=vuedotjs&logoColor=39FFEE)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=39FFEE)
+![Unity](https://img.shields.io/badge/Unity-0D1117?style=for-the-badge&logo=unity&logoColor=FFFFFF)
+![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=FF2D78)
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FFB800)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=39FFEE)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0D1117?style=for-the-badge&logo=cloudflare&logoColor=FFB800)
 
 </div>
 
@@ -150,8 +150,8 @@ Personal brand website built in **Vue** — home of the L1mitless creative unive
 
 <div align="center">
 
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Certified-FFB800?style=for-the-badge&logo=amazonaws&logoColor=FFB800&labelColor=050810)
-![AWS Solutions Architect](https://img.shields.io/badge/AWS%20Solutions%20Architect-Associate-FF2D78?style=for-the-badge&logo=amazonaws&logoColor=FF2D78&labelColor=050810)
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Certified-FFB800?style=for-the-badge&logo=amazonaws&logoColor=FFB800&labelColor=0D1117)
+![AWS Solutions Architect](https://img.shields.io/badge/AWS%20Solutions%20Architect-Associate-FF2D78?style=for-the-badge&logo=amazonaws&logoColor=FF2D78&labelColor=0D1117)
 
 </div>
 
@@ -159,7 +159,7 @@ Personal brand website built in **Vue** — home of the L1mitless creative unive
 
 ## 📡 Activity
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=G-cae78&bg_color=050810&color=39FFEE&line=B14FFF&point=FF2D78&area=true&hide_border=true)](https://github.com/G-cae78)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=G-cae78&bg_color=0D1117&color=39FFEE&line=B14FFF&point=FF2D78&area=true&hide_border=true)](https://github.com/G-cae78)
 
 ---
 
@@ -167,9 +167,9 @@ Personal brand website built in **Vue** — home of the L1mitless creative unive
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-050810?style=for-the-badge&logo=linkedin&logoColor=39FFEE)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-050810?style=for-the-badge&logo=github&logoColor=B14FFF)](https://github.com/G-cae78)
-[![L1mitless](https://img.shields.io/badge/L1mitless-becomel1mitless.com-39FFEE?style=for-the-badge&logo=googlechrome&logoColor=39FFEE&labelColor=050810)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FFEE)](https://www.linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=B14FFF)](https://github.com/G-cae78)
+[![L1mitless](https://img.shields.io/badge/L1mitless-becomel1mitless.com-39FFEE?style=for-the-badge&logo=googlechrome&logoColor=39FFEE&labelColor=0D1117)](https://becomel1mitless.com)
 
 </div>
 
