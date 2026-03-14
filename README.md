@@ -19,10 +19,10 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=050810&title_color=39FFEE&icon_color=B14FFF&text_color=e0f0ff&rank_icon=github)](https://github.com/YOUR_USERNAME)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=050810&title_color=39FFEE&text_color=e0f0ff&langs_count=6)](https://github.com/YOUR_USERNAME)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=050810&title_color=39FFEE&icon_color=B14FFF&text_color=e0f0ff&rank_icon=github)](https://github.com/g-cae78)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=050810&title_color=39FFEE&text_color=e0f0ff&langs_count=6)](https://github.com/g-cae78)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=050810&ring=39FFEE&fire=FF2D78&currStreakLabel=B14FFF&sideLabels=39FFEE&dates=888888)](https://github.com/YOUR_USERNAME)
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=050810&ring=39FFEE&fire=FF2D78&currStreakLabel=B14FFF&sideLabels=39FFEE&dates=888888)](https://github.com/g-cae78)
 
 </div>
 
@@ -118,7 +118,7 @@ Algorithms shaped by nature itself — evolutionary computation, neural architec
 
 ## 📡 Activity
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=050810&color=39FFEE&line=B14FFF&point=FF2D78&area=true&hide_border=true)](https://github.com/YOUR_USERNAME)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=050810&color=39FFEE&line=B14FFF&point=FF2D78&area=true&hide_border=true)](https://github.com/g-cae78)
 
 ---
 
@@ -127,7 +127,7 @@ Algorithms shaped by nature itself — evolutionary computation, neural architec
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-050810?style=for-the-badge&logo=linkedin&logoColor=39FFEE)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-050810?style=for-the-badge&logo=github&logoColor=B14FFF)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-050810?style=for-the-badge&logo=github&logoColor=B14FFF)](https://github.com/g-cae78)
 
 </div>
 
