@@ -38,13 +38,10 @@
 name:      Chuk
 alias:     L1mitless Creator
 role:      Software Engineer / ML & AI
-location:  Ireland 🇮🇪
 certs:     AWS Cloud Practitioner · AWS Solutions Architect Associate
 interests: ML/AI · Cybersecurity · Game Dev · Cloud · Fashion · Fitness
 status:    Mental Wheel's always spinning
 ```
-
-Software engineer who loves systems that think, games that feel alive, and cloud infrastructure that just works. When I'm not coding I'm running my clothing brand or posting fitness and food content.
 
 ---
 
