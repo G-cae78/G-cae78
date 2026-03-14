@@ -20,10 +20,13 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=G-cae78&show_icons=true&hide_border=true&bg_color=050810&title_color=39FFEE&icon_color=B14FFF&text_color=e0f0ff&rank_icon=github)](https://github.com/G-cae78)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-cae78&layout=compact&hide_border=true&bg_color=050810&title_color=39FFEE&text_color=e0f0ff&langs_count=8)](https://github.com/G-cae78)
+[![GitHub Streak](https://streak-stats.demolab.com?user=G-cae78&hide_border=true&background=050810&ring=39FFEE&fire=FF2D78&currStreakLabel=B14FFF&sideLabels=39FFEE&dates=888888&stroke=39FFEE20)](https://github.com/G-cae78)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=G-cae78&hide_border=true&background=050810&ring=39FFEE&fire=FF2D78&currStreakLabel=B14FFF&sideLabels=39FFEE&dates=888888)](https://github.com/G-cae78)
+<br/>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=G-cae78&show_icons=true&hide_border=true&bg_color=050810&title_color=39FFEE&icon_color=B14FFF&text_color=e0f0ff&rank_icon=github&cache_seconds=1800)](https://github.com/G-cae78)
+&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-cae78&layout=compact&hide_border=true&bg_color=050810&title_color=39FFEE&text_color=e0f0ff&langs_count=8&cache_seconds=1800)](https://github.com/G-cae78)
 
 </div>
 
@@ -166,7 +169,7 @@ Personal brand website built in **Vue** — home of the L1mitless creative unive
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-050810?style=for-the-badge&logo=linkedin&logoColor=39FFEE)](https://www.linkedin.com/in/YOUR_LINKEDIN)
 [![GitHub](https://img.shields.io/badge/GitHub-050810?style=for-the-badge&logo=github&logoColor=B14FFF)](https://github.com/G-cae78)
-[![ForTheL1mitless] (https://becomel1mitless.com)
+[![L1mitless](https://img.shields.io/badge/L1mitless-becomel1mitless.com-39FFEE?style=for-the-badge&logo=googlechrome&logoColor=39FFEE&labelColor=050810)](https://becomel1mitless.com)
 
 </div>
 
