@@ -1,17 +1,18 @@
 <div align="center">
 
 ```
-██████╗ ███████╗ ██████╗ ██████╗  ██████╗ ███████╗
-██╔════╝ ██╔════╝██╔═══██╗██╔══██╗██╔════╝ ██╔════╝
-██║  ███╗█████╗  ██║   ██║██████╔╝██║  ███╗█████╗  
-██║   ██║██╔══╝  ██║   ██║██╔══██╗██║   ██║██╔══╝  
-╚██████╔╝███████╗╚██████╔╝██║  ██║╚██████╔╝███████╗
- ╚═════╝ ╚══════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝
+  ██╗     ██╗███╗   ███╗██╗████████╗██╗     ███████╗███████╗███████╗
+  ██║     ██║████╗ ████║██║╚══██╔══╝██║     ██╔════╝██╔════╝██╔════╝
+  ██║     ██║██╔████╔██║██║   ██║   ██║     █████╗  ███████╗███████╗
+  ██║     ██║██║╚██╔╝██║██║   ██║   ██║     ██╔══╝  ╚════██║╚════██║
+  ███████╗██║██║ ╚═╝ ██║██║   ██║   ███████╗███████╗███████║███████║
+  ╚══════╝╚═╝╚═╝     ╚═╝╚═╝   ╚═╝   ╚══════╝╚══════╝╚══════╝╚══════╝
+                          ⚡  L 1 M I T L E S S  ⚡
 ```
 
-### ⚡ George Chukwuma — *L1mitless Creator*
+### George Chukwuma — *L1mitless Creator*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=39FFEE&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+ML+%26+AI+Builder;Quantum+Computing+Explorer;If+it+lights+up+my+neurons%2C+I+build+it.;Always+curious.+Always+building.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=39FFEE&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+ML+%26+AI+Builder;Quantum+Computing+Explorer;Cybersecurity+%7C+Honeypots+%7C+Threat+Intel;If+it+lights+up+my+neurons%2C+I+build+it.;Always+curious.+Always+building.)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,10 +20,10 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=050810&title_color=39FFEE&icon_color=B14FFF&text_color=e0f0ff&rank_icon=github)](https://github.com/g-cae78)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=050810&title_color=39FFEE&text_color=e0f0ff&langs_count=6)](https://github.com/G-cae78)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=G-cae78&show_icons=true&hide_border=true&bg_color=050810&title_color=39FFEE&icon_color=B14FFF&text_color=e0f0ff&rank_icon=github)](https://github.com/G-cae78)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-cae78&layout=compact&hide_border=true&bg_color=050810&title_color=39FFEE&text_color=e0f0ff&langs_count=6)](https://github.com/G-cae78)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=050810&ring=39FFEE&fire=FF2D78&currStreakLabel=B14FFF&sideLabels=39FFEE&dates=888888)](https://github.com/G-cae78)
+[![GitHub Streak](https://streak-stats.demolab.com?user=G-cae78&hide_border=true&background=050810&ring=39FFEE&fire=FF2D78&currStreakLabel=B14FFF&sideLabels=39FFEE&dates=888888)](https://github.com/G-cae78)
 
 </div>
 
@@ -33,8 +34,8 @@
 ```yaml
 name:     George Chukwuma
 alias:    L1mitless Creator
-role:     Software Engineer
-location: Galway, Ireland 🇮🇪
+role:     Software Engineer / ML & AI
+location: Ireland 🇮🇪
 status:   Always building something strange and beautiful
 ```
 
@@ -118,7 +119,7 @@ Algorithms shaped by nature itself — evolutionary computation, neural architec
 
 ## 📡 Activity
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=050810&color=39FFEE&line=B14FFF&point=FF2D78&area=true&hide_border=true)](https://github.com/G-cae78)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=G-cae78&bg_color=050810&color=39FFEE&line=B14FFF&point=FF2D78&area=true&hide_border=true)](https://github.com/G-cae78)
 
 ---
 
@@ -139,6 +140,6 @@ Algorithms shaped by nature itself — evolutionary computation, neural architec
 ⚡ Become L1mitless.
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=39FFEE&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=G-cae78&style=flat-square&color=39FFEE&label=PROFILE+VIEWS)
 
 </div>
