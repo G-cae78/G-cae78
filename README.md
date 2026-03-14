@@ -10,9 +10,9 @@
                           ⚡  L 1 M I T L E S S  ⚡
 ```
 
-### George Chukwuma — *L1mitless Creator*
+### Chuk — *L1mitless Creator*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=39FFEE&center=true&vCenter=true&width=620&lines=Software+Engineer+%7C+ML+%26+AI+Builder;AWS+Certified+%7C+Cloud+%26+Solutions+Architect;Unity+Dev+%7C+Game+%26+Simulation+Builder;Cybersecurity+%7C+Honeypots+%7C+Threat+Intel;If+it+lights+up+my+neurons%2C+I+build+it.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=39FFEE&center=true&vCenter=true&width=620&lines=Software+Engineer+%7C+ML+%26+AI;AWS+Certified+%7C+Cloud+%26+Solutions+Architect;Unity+Dev+%7C+Game+%26+Simulation+Builder;Cybersecurity+%7C+Honeypots+%7C+Threat+Intel;If+it+lights+up+my+neurons%2C+I+build+it.)](https://git.io/typing-svg)
 
 </div>
 
@@ -35,13 +35,13 @@
 ## 👾 Who Am I
 
 ```yaml
-name:      George Chukwuma
+name:      Chuk
 alias:     L1mitless Creator
-role:      Software Engineer
+role:      Software Engineer / ML & AI
 location:  Ireland 🇮🇪
 certs:     AWS Cloud Practitioner · AWS Solutions Architect Associate
 interests: ML/AI · Cybersecurity · Game Dev · Cloud · Fashion · Fitness
-status:    Always building something strange and beautiful
+status:    Mental Wheel's always spinning
 ```
 
 Software engineer who loves systems that think, games that feel alive, and cloud infrastructure that just works. When I'm not coding I'm running my clothing brand or posting fitness and food content.
