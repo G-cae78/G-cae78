@@ -24,7 +24,7 @@
 
 <br/>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=G-cae78&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FFEE&icon_color=B14FFF&text_color=FFFFFF&rank_icon=github&cache_seconds=1800)](https://github.com/G-cae78)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=G-cae78&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=39FFEE&icon_color=B14FFF&text_color=FFFFFF&rank_icon=github&cache_seconds=1800)](https://github.com/G-cae78)
 &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-cae78&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FFEE&text_color=FFFFFF&langs_count=8&cache_seconds=1800)](https://github.com/G-cae78)
 
