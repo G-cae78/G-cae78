@@ -12,24 +12,6 @@
 
 ### Chuk — *L1mitless Creator*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=39FFEE&center=true&vCenter=true&width=620&lines=Software+Engineer+%7C+ML+%26+AI;AWS+Certified+%7C+Cloud+%26+Solutions+Architect;Unity+Dev+%7C+Game+%26+Simulation+Builder;Cybersecurity+%7C+Honeypots+%7C+Threat+Intel;If+it+lights+up+my+neurons%2C+I+build+it.)](https://git.io/typing-svg)
-
-</div>
-
----
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=G-cae78&hide_border=true&background=0D1117&ring=39FFEE&fire=FF2D78&currStreakLabel=39FFEE&sideLabels=39FFEE&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=39FFEE20)](https://github.com/G-cae78)
-
-<br/>
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=G-cae78&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=39FFEE&icon_color=B14FFF&text_color=FFFFFF&rank_icon=github&cache_seconds=1800)](https://github.com/G-cae78)
-&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-cae78&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FFEE&text_color=FFFFFF&langs_count=8&cache_seconds=1800)](https://github.com/G-cae78)
-
-</div>
-
 ---
 
 ## 👾 Who Am I
