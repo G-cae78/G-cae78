@@ -7,22 +7,20 @@
   ██║     ██║██║╚██╔╝██║██║   ██║   ██║     ██╔══╝  ╚════██║╚════██║
   ███████╗██║██║ ╚═╝ ██║██║   ██║   ███████╗███████╗███████║███████║
   ╚══════╝╚═╝╚═╝     ╚═╝╚═╝   ╚═╝   ╚══════╝╚══════╝╚══════╝╚══════╝
-                    🦅  M V R C K  🦅
+                    
 ```
 
-### Chuk — *L1mitless Creator*
+### Chuk —    M V R C K  Creator
 
 ---
 
 ## 👾 Who Am I
 
 ```yaml
-name:      Chuk
-alias:     L1mitless Creator
-role:      Software Engineer / ML & AI
-certs:     AWS Cloud Practitioner · AWS Solutions Architect Associate
-interests: ML/AI · Cybersecurity · Game Dev · Cloud · Fashion · Fitness
-status:    Mental Wheel's always spinning
+ Software Engineer / ML & AI
+ AWS Cloud Practitioner · AWS Solutions Architect Associate
+ML/AI · Cybersecurity · Game Dev · Cloud · Fashion · Fitness
+
 ```
 
 ---
